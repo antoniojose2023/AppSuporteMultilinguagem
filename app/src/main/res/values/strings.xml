@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSuporteMultiliguagem</string>
+
+    <string name="tv_title">Autenticação</string>
+    <string name="tv_label_email">Email</string>
+    <string name="tv_label_password">Senha</string>
+    <string name="bt_entry">Entrar</string>
+</resources>

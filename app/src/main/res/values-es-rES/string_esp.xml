@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSoporteIdioma</string>
+
+    <string name="tv_title">Autenticación</string>
+    <string name="tv_label_email">Email</string>
+    <string name="tv_label_password">clave</string>
+    <string name="bt_entry">iniciar sesión</string>
+</resources>

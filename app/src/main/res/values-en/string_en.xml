@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSupportMultilingual</string>
+
+    <string name="tv_title">Authentication</string>
+    <string name="tv_label_email">Email</string>
+    <string name="tv_label_password">Password</string>
+    <string name="bt_entry">Entry</string>
+</resources>
